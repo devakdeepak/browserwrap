@@ -2,8 +2,7 @@
 
 
 
-# [Project Name] 🎯
-
+# BrowserWrapped 🎯
 
 ## Basic Details
 
@@ -69,7 +68,8 @@ For Software:
 
 Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+<img width="1262" height="707" alt="image" src="https://github.com/user-attachments/assets/cf944c8e-7ca1-4dc3-a4b5-417a0fbc66c5" />
+(Add screenshot 1 here with proper name) Add caption explaining what this shows
 
 ![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
 
