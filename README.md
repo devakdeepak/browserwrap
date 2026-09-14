@@ -69,11 +69,13 @@ For Software:
 Screenshots (Add at least 3)
 
 <img width="1262" height="707" alt="image" src="https://github.com/user-attachments/assets/cf944c8e-7ca1-4dc3-a4b5-417a0fbc66c5" />
-(Add screenshot 1 here with proper name) Add caption explaining what this shows
+Dashboard (Dashboard of the app)
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+<img width="553" height="555" alt="image" src="https://github.com/user-attachments/assets/9d8c67f4-6369-4b8c-956f-ab85224b5372" />
+Time (Shows the no. of hours spent on browsing the internet)
 
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
+<img width="737" height="906" alt="image" src="https://github.com/user-attachments/assets/97e16a9b-9713-45fd-98b1-699e26130d79" />
+Wrapped (This shows the shortened summary of all that has happened)
 
 
 ## Team Contributions
